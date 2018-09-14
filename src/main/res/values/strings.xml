@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Validate</string>
+    <string name="max_length_error">字符长度不能大于</string>
+    <string name="min_length_error">字符长度不能小于</string>
+</resources>
